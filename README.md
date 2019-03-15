@@ -1,7 +1,7 @@
 
 # Tailored EKS / Istio Workshop
 
-We only do a subset of a really great and well designed workshop that you can find here.
+We only do a subset of a really great and well designed workshop that you can find [here](https://eksworkshop.com/).
 
 * Read [Introduction](https://eksworkshop.com/introduction/)
 
