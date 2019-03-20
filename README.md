@@ -36,6 +36,8 @@ then jump to
 
 ## Additional ressources
 
-There are some [supporting slides](https://speakerdeck.com/fmunz/istio-and-aws-app-mesh). If you like, you can watch an [introduction to Istio on EKS video](https://www.youtube.com/watch?v=fDmJf9kWFws) that I did late 2018 before AWS App Mesh came out. 
+There are some [supporting slides](https://speakerdeck.com/fmunz/istio-and-aws-app-mesh) for this workshop. 
+
+If you are interested, you can find more slides about [getting started with containers in the cloud](https://speakerdeck.com/fmunz/getting-started-with-containers-in-the-cloud-404c9992-4f35-4f42-88bd-27c742895cc0). If you like, you can watch an [introduction to Istio on EKS video](https://www.youtube.com/watch?v=fDmJf9kWFws), a session that I presented at CODE One conference in late 2018. 
 
 
