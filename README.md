@@ -1,5 +1,5 @@
 
-# Tailored EKS / Istio Workshop
+# Tailored AWS Kubernetes Workshop with EKS, Envoy / Istio and AWS App Mesh
 
 # Description
 
