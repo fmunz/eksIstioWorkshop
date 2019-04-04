@@ -32,7 +32,9 @@ then jump to
 
 * [Service Mesh with Istio](https://eksworkshop.com/servicemesh_with_istio/)
 
+## Caution
 
+Please make sure to tear down all ressources as described in the instructions. Stop the eks cluster using eksctl. Thank you.
 
 ## Additional ressources
 
